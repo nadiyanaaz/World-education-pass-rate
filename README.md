@@ -10,10 +10,11 @@ c. Summary:
 I download the file from the GitHub repository and uploaded it to Google colab and start working on the duplicates and na values. I converted the columns according to the datatype and calculated the mean median and mode and detected the outliers with the help of a box plot.
 
 d. Other’s Findings:
-
 https://apcentral.collegeboard.org/exam-administration-ordering-scores/scores/available-reports/student-datafile
+
 e. Sources
 https://data.world/education/ap-cs-pass-rate-by-racegender
+
 f. Graphs:
 I have used histograms and bar graphs to show my analysis
 
