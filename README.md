@@ -16,10 +16,10 @@ e. Sources
 https://data.world/education/ap-cs-pass-rate-by-racegender
 
 f. Graphs:
-I have used histograms and bar graphs to show my analysis
+I have used histograms,Scatter plot and bar graphs to show my analysis
 
 h.Conclusion
-I have explored my dataset and focused and uncovered a few columns to analyze to my understanding.
+I have explored my dataset and focused and uncovered a few columns to analyze to my understanding.I created a subset of Number of black students and define the outliers from the data by using the box plot.By using the bar graph I showed Number od students have passed in Alabama state.I calculated the percentage value of Black students with the help of bar graph.I found the correlation between Number of black students and Number of hispanic by creating Scatter plot.I calculated the mean of Number of black by the state through bar garph.
 
 
 
